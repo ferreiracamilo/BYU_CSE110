@@ -1,6 +1,4 @@
 # CSE110
-
-# CSE110
 Required Assignments to fulfill and approve CSE110 BYU course
 
 ## Applied
